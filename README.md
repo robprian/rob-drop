@@ -8,7 +8,7 @@
 
 | Nama Bot | Folder | Deskripsi Singkat | Status |
 |----------|--------|-------------------|--------|
-| [BlockMesh Bot](/testnet_blockmesh) | `testnet_blockmesh/` | Bot automation BlockMesh | 🟢 Active |
+| [BlockMesh](/testnet/blockmesh) | `testnet/blockmesh/` | Bot automation BlockMesh | 🟢 Active |
 | [Main Scripts](/main) | `main/` | Kumpulan script utama | 🟡 Maintenance |
 
 ---
