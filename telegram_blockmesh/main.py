@@ -39,16 +39,16 @@ if not credentials_list:
     print(f"{Fore.RED}[×] No valid credentials found in query.txt!")
     exit()
 
-# Read proxies from proxies.txt
-proxy_list_path = "proxies.txt"
+# Read proxies from proxy.txt
+proxy_list_path = "proxy.txt"
 proxies_list = []
 
 if os.path.exists(proxy_list_path):
     with open(proxy_list_path, "r") as file:
         proxies_list = file.read().splitlines()
-        print(f"{Fore.GREEN}[✓] Loaded {len(proxies_list)} proxies from proxies.txt")
+        print(f"{Fore.GREEN}[✓] Loaded {len(proxies_list)} proxies from proxy.txt")
 else:
-    print(f"{Fore.RED}[×] proxies.txt not found!")
+    print(f"{Fore.RED}[×] proxy.txt not found!")
     exit()
 
 # Check if we have enough proxies for all accounts
