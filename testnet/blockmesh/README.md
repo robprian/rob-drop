@@ -20,8 +20,8 @@ Multi-account automation tool for BlockMesh Network with proxy support.
 
 1. Clone this repository:
 ```bash
-svn export https://github.com/robprian/rob-drop/trunk/telegram_blockmesh
-cd BlockMesh-AutoBot
+svn export https://github.com/robprian/rob-drop/trunk/testnet/blockmesh
+cd blockmesh
 ```
 
 2. Install dependencies:
