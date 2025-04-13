@@ -8,14 +8,14 @@
 
 | Nama Bot | Folder | Deskripsi Singkat | Status |
 |----------|--------|-------------------|--------|
-| [Telegram BlockMesh Bot](/telegram_blockmesh) | `telegram_blockmesh/` | Bot untuk integrasi BlockMesh dengan Telegram | 🟢 Active |
+| [BlockMesh Bot](/testnet_blockmesh) | `testnet_blockmesh/` | Bot automation BlockMesh | 🟢 Active |
 | [Main Scripts](/main) | `main/` | Kumpulan script utama | 🟡 Maintenance |
 
 ---
 
 ## 🔄 Update Log
 
-- **2025-04-13**: Penambahan Telegram BlockMesh Bot
+- **2025-04-13**: Penambahan BlockMesh Bot
 - **2025-04-13**: Setup awal repository rob-drop
 
 ---
