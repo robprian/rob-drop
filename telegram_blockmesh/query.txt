@@ -1,0 +1,2 @@
+user1@domain.com|password123
+user2@domain.com|mypassword
